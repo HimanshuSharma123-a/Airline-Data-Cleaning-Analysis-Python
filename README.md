@@ -26,9 +26,41 @@ This project involves data cleaning and modification of an airline dataset using
 
 ![Image 1](https://github.com/HimanshuSharma123-a/Airline-Data-Cleaning-Analysis-Python/blob/main/1.png)
 ![Image 2](https://github.com/HimanshuSharma123-a/Airline-Data-Cleaning-Analysis-Python/blob/main/2.png)
-![Image 3](images/image3.png)
-![Image 4](images/image4.png)
-![Image 5](images/image5.png)
-![Image 6](images/image6.png)
-![Image 7](images/image7.png)
-![Image 8](images/image8.png)
+![Image 3](https://github.com/HimanshuSharma123-a/Airline-Data-Cleaning-Analysis-Python/blob/main/3.png)
+![Image 4](https://github.com/HimanshuSharma123-a/Airline-Data-Cleaning-Analysis-Python/blob/main/4.png)
+![Image 5](https://github.com/HimanshuSharma123-a/Airline-Data-Cleaning-Analysis-Python/blob/main/5.png)
+![Image 6](https://github.com/HimanshuSharma123-a/Airline-Data-Cleaning-Analysis-Python/blob/main/6.png)
+![Image 7](https://github.com/HimanshuSharma123-a/Airline-Data-Cleaning-Analysis-Python/blob/main/7.png)
+![Image 8](https://github.com/HimanshuSharma123-a/Airline-Data-Cleaning-Analysis-Python/blob/main/8.png)
+
+#### Before Cleaning
+Here is the original dataset before cleaning:
+
+![Before Cleaning Dataset](images/before_cleaning.png)
+
+#### After Cleaning
+Here is the dataset after cleaning:
+
+![After Cleaning Dataset](images/after_cleaning.png)
+
+## Dataset
+- `FINALdata1.csv`: Contains structured data for analysis.
+- Loaded using Pandas (`pd.read_csv("FINALdata1.csv")`).
+
+## Libraries Used
+- `pandas`: Data manipulation and analysis.
+- `numpy`: Numerical computations.
+- `matplotlib`: Data visualization.
+
+## Key Steps
+1. **Data Loading**: The dataset is read using Pandas.
+2. **Exploratory Data Analysis (EDA)**:
+   - Checking data structure using `df.head()`, `df.info()`, and `df.describe()`.
+   - Handling missing values if present.
+3. **Data Visualization**:
+   - Using Matplotlib to create relevant plots.
+
+## Insights & Conclusions
+- Identified key trends and patterns in the dataset.
+- Performed data cleaning and transformation.
+- Created visualizations to highlight significant findings.
