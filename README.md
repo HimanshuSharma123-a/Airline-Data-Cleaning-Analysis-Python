@@ -36,7 +36,7 @@ This project involves data cleaning and modification of an airline dataset using
 #### Before Cleaning
 Here is the original dataset before cleaning:
 
-![Before Cleaning Dataset](images/before_cleaning.png)
+![Before Cleaning Dataset](https://github.com/HimanshuSharma123-a/Airline-Data-Cleaning-Analysis-Python/blob/main/FINALdata1.csv)
 
 #### After Cleaning
 Here is the dataset after cleaning:
