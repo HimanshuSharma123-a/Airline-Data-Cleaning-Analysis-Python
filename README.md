@@ -24,7 +24,7 @@ This project involves data cleaning and modification of an airline dataset using
 - **Numpy:** For numerical operations and array handling.
 - **Matplotlib:** For data visualization.
 
-![Image 1](images/image1.png)
+![Image 1](https://github.com/HimanshuSharma123-a/Airline-Data-Cleaning-Analysis-Python/blob/main/1.png)
 ![Image 2](images/image2.png)
 ![Image 3](images/image3.png)
 ![Image 4](images/image4.png)
