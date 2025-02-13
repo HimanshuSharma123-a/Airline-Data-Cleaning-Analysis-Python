@@ -23,3 +23,12 @@ This project involves data cleaning and modification of an airline dataset using
 - **Pandas:** For data manipulation and analysis.
 - **Numpy:** For numerical operations and array handling.
 - **Matplotlib:** For data visualization.
+
+![Image 1](images/image1.png)
+![Image 2](images/image2.png)
+![Image 3](images/image3.png)
+![Image 4](images/image4.png)
+![Image 5](images/image5.png)
+![Image 6](images/image6.png)
+![Image 7](images/image7.png)
+![Image 8](images/image8.png)
