@@ -33,15 +33,14 @@ This project involves data cleaning and modification of an airline dataset using
 ![Image 7](https://github.com/HimanshuSharma123-a/Airline-Data-Cleaning-Analysis-Python/blob/main/7.png)
 ![Image 8](https://github.com/HimanshuSharma123-a/Airline-Data-Cleaning-Analysis-Python/blob/main/8.png)
 
-#### Before Cleaning
-Here is the original dataset before cleaning:
+### Dataset Links
+Here are the links to the datasets:
 
-![Before Cleaning Dataset](https://github.com/HimanshuSharma123-a/Airline-Data-Cleaning-Analysis-Python/blob/main/FINALdata1.csv)
+#### Before Cleaning
+[Before Cleaning Dataset](https://github.com/HimanshuSharma123-a/Airline-Data-Cleaning-Analysis-Python/blob/main/FINALdata1.csv)
 
 #### After Cleaning
-Here is the dataset after cleaning:
-
-![After Cleaning Dataset](images/after_cleaning.png)
+[After Cleaning Dataset](link_to_after_cleaning_dataset)
 
 ## Dataset
 - `FINALdata1.csv`: Contains structured data for analysis.
